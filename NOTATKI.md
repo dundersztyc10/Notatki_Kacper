@@ -109,7 +109,7 @@ const tableBody = document.getElementById('table-body');
     });
   }
 ```
-wywołanie funkcji `generateTable` z tablicą `granice` jako argument funkcji
+Wywołanie funkcji `generateTable` z tablicą `granice` jako argument funkcji
 ```js
 generateTable(granice);
 ```
